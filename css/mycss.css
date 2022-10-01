@@ -1,0 +1,14 @@
+/* CSS if any */
+.card{
+    position: absolute;
+    width: max-content;
+    max-width: 85%;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.wallpaper {
+    height: 370px;
+    object-fit: cover;
+}
